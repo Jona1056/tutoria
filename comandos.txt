@@ -1,0 +1,10 @@
+npm init -y
+npm install express
+node app.js
+npm install cors
+
+
+REACT
+npm install react-router-dom
+npm install cors
+npm install axios
